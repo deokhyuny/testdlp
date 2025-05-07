@@ -1,0 +1,42 @@
+<records>
+  <record>
+    <Name>홍길동</Name>
+    <Phone>010-1234-5678</Phone>
+    <Passport>M12345678</Passport>
+    <AlienReg>900101-1234567</AlienReg>
+    <DriverLicense>12-34-567890-12</DriverLicense>
+    <ResidentReg>900101-1234567</ResidentReg>
+  </record>
+  <record>
+    <Name>김철수</Name>
+    <Phone>010-9876-5432</Phone>
+    <Passport>N87654321</Passport>
+    <AlienReg>801231-2345678</AlienReg>
+    <DriverLicense>98-76-543210-98</DriverLicense>
+    <ResidentReg>801231-2345678</ResidentReg>
+  </record>
+  <record>
+    <Name>이영희</Name>
+    <Phone>010-5555-6666</Phone>
+    <Passport>P23456789</Passport>
+    <AlienReg>750405-3456789</AlienReg>
+    <DriverLicense>23-45-678901-23</DriverLicense>
+    <ResidentReg>750405-2345678</ResidentReg>
+  </record>
+  <record>
+    <Name>박지민</Name>
+    <Phone>010-1111-2222</Phone>
+    <Passport>Q34567890</Passport>
+    <AlienReg>920202-4567890</AlienReg>
+    <DriverLicense>34-56-789012-34</DriverLicense>
+    <ResidentReg>920202-4567890</ResidentReg>
+  </record>
+  <record>
+    <Name>Choi Min</Name>
+    <Phone>010-3333-4444</Phone>
+    <Passport>R45678901</Passport>
+    <AlienReg>880303-5678901</AlienReg>
+    <DriverLicense>45-67-890123-45</DriverLicense>
+    <ResidentReg>880303-5678901</ResidentReg>
+  </record>
+</records>
